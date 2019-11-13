@@ -1,0 +1,10 @@
+{
+  "Name": "ArtifactFinder",
+  "Author": "TriceraQuach",
+  "Version": "1.0.0",
+  "Description": "A mod that finds artifact spots and shows what they will uncover.",
+  "UniqueID": "TriceraQuach.ArtifactFinder",
+  "EntryDll": "ArtifactFinder.dll",
+  "MinimumApiVersion": "2.10.0", //make sure this is correct
+  "UpdateKeys": [] //"GitHub:kevinhquach/ArtifactFinder"
+}
